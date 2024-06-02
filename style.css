@@ -1,0 +1,64 @@
+
+
+html{
+    font-size: 62.5%;
+    background-color: #bbbbbc;
+}
+h1{
+    color: #000000;
+    background-color: #ffffff;
+}
+body{
+    margin: 0%;
+    border: 0%;
+    /* box-sizing: border-box; */
+    color: #ffffff
+}
+ .forteen{
+    background-color:#3184c6;
+ }
+ .thirteen{
+    background-color: #2b91cf;
+ }
+ .twelve{
+    background-color: #1e9dd9;
+ }
+ .eleven{
+    background-color: #33a6dc;
+ }
+ .ten{
+    background-color: #56b6e7;
+ }
+ .nine{
+    background-color: #70c0ec;
+ }
+ .eight{
+    background-color: #8bc9ee;
+ }
+ .seven{
+    background-color: #1bb584;
+ }
+ .six{
+    background-color: #f4aece;
+ }
+ .five{
+    background-color: #f39bbf;
+ }
+ .four{
+    background-color: #f38cb5;
+ }
+ .three{
+    background-color: #f279a7;
+ }
+ .two{
+    background-color: #f16998;
+ }
+ .one{
+    background-color: #f05b8c;
+ }
+ .zero{
+    background-color: #ee3980;
+ }
+p{
+   margin-top: -10px;
+}
